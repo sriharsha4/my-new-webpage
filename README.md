@@ -1,4 +1,5 @@
 # my-new-webpage
+
 <!doctype html>
 <html>
 <head>
@@ -9,7 +10,7 @@
 	
 	p {
 		width: 90%;
-		height: 200px;
+		height: 100px;
 		box-sizing: border-box;
 		margin-right: auto;
 		margin-left: auto;
