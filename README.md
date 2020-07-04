@@ -1,5 +1,3 @@
-# my-new-webpage
-
 <!doctype html>
 <html>
 <head>
